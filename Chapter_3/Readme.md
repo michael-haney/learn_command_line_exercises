@@ -1,5 +1,3 @@
-Hostname questions
-
 | ------------- |:-------------:| -----:|
 |Questions |Command Used |Answer||
 |What host are you on?| hostname |Michaels-MacBook-Pro.local|
