@@ -1,9 +1,28 @@
-Print Working Directory
+#Chapter 2: Paths, Folders, Directories (pwd)
 
-| ------------- |:-------------:| -----:|
-|Question |Command Used |Answer|
-|What directory are you in? |pwd |Chapter_2|
-|Are you in the class directory? |pwd |Kind of? I'm in a subdirectory of the class directory|
-|Are you in your home directory? |pwd |No, I'm not.|
-|What directory did you run that command in? |pwd |Chapter_2|
+##English Questions
+
+###What directory are you in? 
+
+Chapter_2
+
+Command used `pwd`
+
+###Are you in the class directory? 
+
+Yes, I am.
+
+Command used `pwd`
+
+###Are you in your home directory? 
+
+No, I'm not.
+
+Command used `pwd`
+
+###What directory did you run that command in? 
+
+Chapter_2
+
+Command used `pwd`
 
