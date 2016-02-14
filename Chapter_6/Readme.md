@@ -6,6 +6,10 @@
 
 The ls -lr command tells you the mode, last write time, length, and name of the directory you are in.
 
+##Comments
+
+Need more clarification as to what the command ls -lr does.
+
 ##English Questions
 
 ###What's in the tmp directory?
