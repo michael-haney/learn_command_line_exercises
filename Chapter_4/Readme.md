@@ -24,4 +24,8 @@ Yes I can.
 
 ###Can you make a log directory in your class directory?
 
+Yes I can.
+
+`cd ~/workspace/davinci_coders_t1_2016/`
+`mkdir log`
 
