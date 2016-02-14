@@ -16,7 +16,7 @@ Command used `pwd`
 
 ###Are you in your home directory? 
 
-No, I'm not.
+No, I am not.
 
 Command used `pwd`
 
