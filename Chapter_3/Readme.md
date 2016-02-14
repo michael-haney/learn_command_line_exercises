@@ -1,4 +1,4 @@
-#Chapter 3:What's Your Computer's Name? (hostname)
+#Chapter 3: What's Your Computer's Name? (hostname)
 
 ##English Questions
 
