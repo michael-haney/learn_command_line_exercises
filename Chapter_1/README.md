@@ -1,4 +1,4 @@
-|Command |What it does||
+|Command |What it does|
 | ------------- |:-------------:| -----:|
 |pwd |print working directory||
 |hostname |my computers network name||
