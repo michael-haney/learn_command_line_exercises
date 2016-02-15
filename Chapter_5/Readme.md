@@ -38,4 +38,8 @@ Command used `cd ~/temp`
    
 ###Can you go to the slash temp directory?
    
+No, I cannot.
+
 ###Can you go to the slash temp slash log directory?
+
+No, I cannot.
