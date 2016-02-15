@@ -35,11 +35,13 @@ Yes, I can.
 Command used `cd ~/temp`
 
 ###Why don't we go into the temp directory?
+
+I'm not sure.
    
 ###Can you go to the slash temp directory?
    
-No, I cannot.
+No, I cannot. No such file or directory.
 
 ###Can you go to the slash temp slash log directory?
 
-No, I cannot.
+No, I cannot. No such file or directory.
