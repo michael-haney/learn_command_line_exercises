@@ -31,3 +31,7 @@ Yes, I can.
 ###Let's create foo.txt.
 
 `touch foo.txt`
+
+##Touching an existing file
+
+I believe touching an existing file just updates the time the file is created/modified.
