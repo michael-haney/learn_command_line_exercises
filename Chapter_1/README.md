@@ -10,7 +10,7 @@
 |popd |pop directory||
 |cp |copy a file or directory||
 |mv |move a file or directory||
-|less |page through a gile||
+|less |page through a file||
 |cat |print the whole file||
 |xargs |execute arguments||
 |find |find files||
