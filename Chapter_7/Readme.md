@@ -14,6 +14,9 @@ Command used `mkdir -p alpha/bravo/charlie/delta/echo/foxtrot/golf/hotel/india/j
 `rmdir romeo`
 etc..
 
+You can also remove all directories and subdirectories at once.
+Command used `rm -rf alpha`
+
 ###Make a single path of directories that is 10 deep and remove them one at a time just like I did above.
 
 Command used `mkdir -p alpha/bravo/charlie/delta/echo/foxtrot/golf/hotel/india/juliet`
