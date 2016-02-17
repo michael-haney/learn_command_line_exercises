@@ -40,7 +40,9 @@ I'm not sure.
    
 ###Can you go to the slash temp directory?
    
-No, I cannot. No such file or directory.
+Yes, I can. 
+
+Command used `cd /tmp`
 
 ###Can you go to the slash temp slash log directory?
 
