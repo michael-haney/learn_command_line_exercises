@@ -4,7 +4,7 @@
 
 ###What does the ls -lr command do?
 
-The ls -lr command tells you the mode, last write time, length, and name of the directory you are in.
+The ls -lr command tells you the mode, last write time, length, and name of the directory you are in as well as the files/folders in that directory.
 
 ##Comments
 
@@ -33,4 +33,8 @@ Command used `cd`
    
 ###What's in slash temp?
 
-Nothing. No such file or directory exists.
+KSOutOfProcessFetcher.501.sAglCyxY5lzPoNgfmEvv-ZqGl-w=
+com.apple.launchd.aGygVRvW99
+com.apple.launchd.cxvEoA5Fhv
+
+Also, a bunch of wifi logs are here.
