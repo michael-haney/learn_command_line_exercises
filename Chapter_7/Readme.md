@@ -32,4 +32,6 @@ I'm sure there is a command to force delete a directory that has contents in it.
 
 ###Can you remove the tmp directory?
 
-Not to my knowledge.
+Yes, by force removing the directory.
+
+Command used `rm -rf tmp`
