@@ -31,12 +31,12 @@ Command used `cd ~/applications`
 
 ###Can you cd into the temp directory?
    
-Yes, I can. 
-Command used `cd ~/temp`
+Yes, I can. Assuming we are already in the chapter_5 directory.
+Command used `cd temp`
 
 ###Why don't we go into the temp directory?
 
-I'm not sure.
+Command used `cd temp`
    
 ###Can you go to the slash temp directory?
    
