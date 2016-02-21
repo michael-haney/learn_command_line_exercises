@@ -20,4 +20,4 @@ Yes, we can. `less /tmp/production.log`
 
 ###What does our database.yml look like?
 
-I don't know where database.yml is located.
+When viewing it from less, we are prompted to an editor. However, when we do more, nothing happens.
