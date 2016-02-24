@@ -24,4 +24,8 @@ Command used `cat database.yml`
 
 ###What is in your Gemfile?
 
-Command used `cat g
+source 'https://rubygems.org'
+
+gem 'guard-rubocop'
+
+Command used `cat Gemfile`
