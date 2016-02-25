@@ -4,18 +4,31 @@
 
 ###Move a file in the newplace directory to another directory then move it back.
 
-Command used `pwd` /deskstop/practice/newplace
-`ls` oldplace (directory) awesome.txt kinda.txt not.txt
-`mv awesome.txt oldplace`
-`ls` oldplace (directory) kinda.txt not.txt
-`ls oldplace` awesome.txt
+Command used 
+```
+$ pwd
+/deskstop/practice/newplace
+
+$ ls oldplace
+awesome.txt kinda.txt not.txt
+
+$ mv awesome.txt oldplace
+
+$ ls oldplace 
+kinda.txt not.txt
+
+$ ls oldplace 
+awesome.txt
+```
 Through these steps, we see how and where the awesome.txt file moved.
 Now, lets move it back!
-`cd oldplace`
-`mv awesome.txt ~/desktop/practice/newplace`
-`cd ..`
-`ls`
-oldplace (directory) awesome.txt kinda.txt not.txt
+```
+$ cd oldplace
+$ mv awesome.txt ~/desktop/practice/newplace
+$ cd ..
+$ ls
+oldplace awesome.txt kinda.txt not.txt
+```
 
 ##English Questions
 
