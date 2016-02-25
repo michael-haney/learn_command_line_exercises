@@ -29,11 +29,12 @@ Command used `touch foo.txt`
 
 ###Can you copy .bash_profile in your home directory to the current directory?
 
-I cannot find .bash_profile in my home directory.
+I found my .bash_profile in my home directory by using `ls -a` inside of my home directory.
 
-If it were there, this would be how to copy it to my current Chapter_10 directory.
+To copy it to Chapter_10 directory, I use 
 
-Command used `cp .bash_profile Chapter_10`
+Command used `cp .bash_profile ~/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises/Chapter_10`
+I then run a `ls -a` to see the .bash_profile now here.
 
 ##What is Robocopy?
 
