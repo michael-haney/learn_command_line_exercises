@@ -28,7 +28,11 @@ Additional Questions
 
 ###Why is it dangerous to run rm -rf?
 
-It's dangerous to run this, because it force removes everything in the directory without the possibility of ever getting it back.
+It's dangerous to run this, because it force removes everything in the directory without tyhe possibility of ever getting it back.
+
+###Why specifically is it dangerous to run rm -rf /?
+
+It's dangerous to run this command because we are force removing everything starting from our root directory (/).
 
 
 
