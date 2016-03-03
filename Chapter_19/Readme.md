@@ -105,7 +105,11 @@ chown will change ownership of whatever is specified.
 
 ###What option to ls tells it to output file size in human readable form?
 ```
-man ls -@ 
+$ man ls -h
+
+-h     When used with the -l option, use unit suffixes: Byte, Kilobyte,
+         Megabyte, Gigabyte, Terabyte and Petabyte in order to reduce the
+         number of digits to three or less using base 2 for sizes.
 ```
 
 ###Is there a case insensitive option to grep?
