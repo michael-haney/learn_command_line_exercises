@@ -10,4 +10,4 @@ Command used `cat *.txt`
 
 ###Show me the content of the text files in slash temp.
 
-I will switch my pwd to /tmp then use the command `cat *.txt` 
+Without switching directories, I can use the command `ls /tmp/*.txt` to find all of my .txt files in my tmp directory.
