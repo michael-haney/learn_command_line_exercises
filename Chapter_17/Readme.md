@@ -6,9 +6,9 @@
 
 ```
 $ pwd 
-/Users/Michael/workspace/Davinci_videos_DaVinci_Videos_T1_2016_in_class
+/Users/Michael/workspace/Davinci_videos/DaVinci_Videos_T1_2016_in_class
 
-$find . -name '*.mp4' - print > /Users/Michael/workspace/DaVinci_Videos_T1_2016/in_class/Videolist.txt
+$ find . -name '*.mp4' -print > /Users/Michael/workspace/davinci_coders_t1_2016/homework/learn_command_line_exercises/Chapter_17/Videolist.txt
 ```
 ##English Questions
 
