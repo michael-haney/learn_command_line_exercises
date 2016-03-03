@@ -35,6 +35,8 @@ $ find . -name '*.log' -print
 ```
 
 ###Run find in the class directory, pipe the output to pbcopy and create a gist with the content. Paste the Gist URL as a comment on this story.
+```
 $ pwd
 /Users/Michael/workspace/davinci_coders_t1_2016/
 $ find . -name '*' -print > homework/learn_command_line_exercises/Chapter_17/pbcopy.txt
+```
